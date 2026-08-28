@@ -1,2 +1,2 @@
 # ornek12
-ornek islem
+Bu REPO  BİR DENEME DİR
